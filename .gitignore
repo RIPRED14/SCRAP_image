@@ -1,0 +1,6 @@
+build/
+dist/
+product_images/
+app.log
+.idea/
+__pycache__/
