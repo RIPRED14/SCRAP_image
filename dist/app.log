@@ -1,0 +1,25 @@
+2025-08-20 21:56:10,931 - INFO - Application started
+2025-08-20 21:56:13,645 - INFO - Run Scraper button clicked
+2025-08-20 21:56:13,645 - INFO - Starting _execute_scraper thread
+2025-08-20 21:56:13,645 - INFO - Scraper started with 8 processes.
+2025-08-20 21:56:14,472 - INFO - Processing https://www.agidra.com/grossiste-vin-rose-grenache-bag-in-box-5l/produit-4020052.html
+2025-08-20 21:56:14,840 - INFO - Downloading image for Vin Rosé Grenache Bag in Box 5l 72 Bag in box x 5 litres
+2025-08-20 21:56:14,840 - INFO - Processing https://www.agidra.com/grossiste-vin-blanc-igp-d-oc-chardonnay-bio-bouteille-75cl/produit-401009.html
+2025-08-20 21:56:15,846 - INFO - Downloading image for Vin blanc IGP d'OC Chardonnay BIO bouteille 75cl CT 6 BOUT
+2025-08-20 21:56:15,852 - INFO - Processing https://www.agidra.com/grossiste-pruneaux-denoyautes-33/44/produit-801902.html
+2025-08-20 21:56:16,251 - INFO - Downloading image for Pruneaux dénoyautés 33/44 Carton de4x2.5 kg
+2025-08-20 21:56:16,251 - INFO - Processing https://www.agidra.com/grossiste-vin-blanc-cuisine-bouteille-25cl-gaston-foucart/produit-401002.html
+2025-08-20 21:56:17,788 - INFO - Downloading image for Vin blanc Cuisine  bouteille 25cl Gaston Foucart CT 24 BOUT
+2025-08-20 21:56:17,804 - INFO - Processing https://www.agidra.com/grossiste-vin-rouge-aop-cotes-du-rhone-vil-plan-de-dieu-75cl/produit-403174.html
+2025-08-20 21:56:18,480 - INFO - Downloading image for Vin rouge AOP Côtes du Rhône vil Plan de dieu 75cl CT 6 BOUT
+2025-08-20 21:56:18,495 - INFO - Processing https://www.agidra.com/grossiste-biere-triple-hopflod-bouteille-75cl/produit-370043.html
+2025-08-20 21:56:19,152 - INFO - Downloading image for Bière triple Hopflod bouteille 75cl CT 12
+2025-08-20 21:56:19,153 - INFO - Processing https://www.agidra.com/grossiste-biere-ambree-hopflod-bouteille-75cl/produit-370023.html
+2025-08-20 21:56:19,792 - INFO - Downloading image for Bière ambrée  Hopflod bouteille 75cl CT 12
+2025-08-20 21:56:20,174 - INFO - Processing https://www.agidra.com/grossiste-ciboulette-deshydratee-flacon-5g-bedros/produit-809476.html
+2025-08-20 21:56:20,670 - INFO - Downloading image for Ciboulette déshydratée flacon 5g Bédros CT 10 FLAC 5 gr
+2025-08-20 21:56:21,005 - INFO - Processing https://www.agidra.com/grossiste-feuilles-de-brick-special-samoussas-paquet-150g/produit-810512.html
+2025-08-20 21:56:21,406 - INFO - Downloading image for Feuilles de brick spécial Samoussas paquet 150g  COL de 20 SCH
+2025-08-20 21:56:21,712 - INFO - Scraper stopped by user.
+2025-08-20 21:56:21,712 - INFO - Scraping finished.
+2025-08-20 21:56:21,712 - INFO - _execute_scraper thread finished
